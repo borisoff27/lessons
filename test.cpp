@@ -7,7 +7,7 @@ void Func(double v)
 {
 	if (v == 0)
 	{
-		throw "Δελενθε νΰ 0";
+		throw "Π”ΠµΠ»ΠµΠ½ΠΈΠµ Π½Π° 0";
 	}
 	cout << 100. / v;
 }
@@ -30,7 +30,7 @@ int main() {
 	}
 	catch (const char *ex)
 	{
-		cout << "ΐςΰςΰ";
+		cout << "Γ€Γ²Γ Γ²Γ ";
 	}
     return 0;
 }
