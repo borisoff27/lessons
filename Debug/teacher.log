@@ -1,0 +1,2 @@
+﻿  test.cpp
+C:\Users\5-0\source\repos\teacher\teacher\test.cpp(31,2): error C2312: const char *: перехвачено "const char *" в строке 27
