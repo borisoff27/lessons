@@ -30,7 +30,7 @@ int main() {
 	}
 	catch (const char *ex)
 	{
-		cout << "Àòàòà";
+		cout << "Атата";
 	}
     return 0;
 }
